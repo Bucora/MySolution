@@ -15,3 +15,4 @@ Otvorte novú inštanciu terminálu (predošlú nechajte zapnutú) a do nového 
 # Poznámky pre používanie programu
 1. Pri vyplnení oboch polí (pole `IČO` aj pole `Jméno firmy`) program vyhľadáva iba podľa IČO, meno ignoruje
 2. Pre uloženie konkrétneho záznamu do DB, dva krát kliknite na vybraný riadok v tabuľke
+3. Databáza je hostovaná na stránkach AWS
