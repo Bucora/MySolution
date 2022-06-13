@@ -1,6 +1,8 @@
 # MySolution
 # Prerekvizity
 1. NodeJS https://nodejs.org/en/download/
+2. PHP 7.4 
+3. PHP Mysqli `sudo apt-get install php-mysql`
 # Návod na spustenie
 Do terminálu zadajte nasledujúce príkazy v tomto poradí:
 1. `git clone https://github.com/Bucora/MySolution`
